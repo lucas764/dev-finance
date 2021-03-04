@@ -1,5 +1,5 @@
 <p>
-    <img with="400" heigth="500" src="./.github/devfinances.png" >
+    <img with="400" heigth="500" src="./.github/desktop.png" >
 </p>
 
 ## Sobre 
