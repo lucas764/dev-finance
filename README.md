@@ -1,2 +1,14 @@
-# dev-finance
-Aplicação web feita na Discover Week, evento disponibilizado pela Rockeseat
+<p>
+    <img with="400" heigth="500" src="./.github/devfinances.png" >
+</p>
+
+## Sobre 
+
+Esse projeto foi desenvolvido durante a maratona discover da Rocketseat para controle financeiro de ganhos e gastos. 
+
+## Tecnologias utilizadas
+- HTML
+- CSS
+- JAVASCRIPT
+
+### Lucas Nascimento
